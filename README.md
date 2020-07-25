@@ -32,66 +32,19 @@ After building
 ```
 After building run python manage.py runserver to run the file in localhost: 127.0.0.1:8000 serving django app as react app
 
-adding some screen shots of it : 
-
-![s1](https://user-images.githubusercontent.com/60361231/88449609-d5128180-ce65-11ea-99d1-c800125db4c3.PNG)
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Adding some screenshots : 
 
 ![s1](https://user-images.githubusercontent.com/60361231/88449609-d5128180-ce65-11ea-99d1-c800125db4c3.PNG)
 
-```
-Give an example
-```
+![s2](https://user-images.githubusercontent.com/60361231/88449646-1dca3a80-ce66-11ea-8422-8d56ec7f3f1f.PNG)
 
-## Deployment
+![s3](https://user-images.githubusercontent.com/60361231/88449648-202c9480-ce66-11ea-928a-75cbc7c79eeb.PNG)
 
-Add additional notes about how to deploy this on a live system
 
-## Built With
+Final View : 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+![looks](https://user-images.githubusercontent.com/60361231/88449671-45b99e00-ce66-11ea-831f-28cd94e392a0.PNG)
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
