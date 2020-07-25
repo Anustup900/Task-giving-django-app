@@ -55,6 +55,8 @@ Give an example
 
 Explain what these tests test and why
 
+![s1](https://user-images.githubusercontent.com/60361231/88449609-d5128180-ce65-11ea-99d1-c800125db4c3.PNG)
+
 ```
 Give an example
 ```
